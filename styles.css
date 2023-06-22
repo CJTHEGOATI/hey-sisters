@@ -1,0 +1,37 @@
+#box1{border:dotted;
+    padding:20px;
+    margin:20px;
+    width: 300px;
+    height: 500px;
+    background: blue;
+    color: grey;
+}
+h3{
+    font-family: comic sans;
+    color: red;
+    
+}
+#box2{ 
+    border: solid;
+    padding: 50px;
+    margin: 30px;
+    width:487px;
+    height: 689px;
+    background: green;
+    color: orange;
+}
+p{ 
+    font-family: new york times;
+    color: purple;
+    
+}
+
+#btn1{
+    background: purple;
+    color: red;
+    
+}
+#btn2{
+    background: grey;
+    color: purple;
+}
